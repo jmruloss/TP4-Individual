@@ -1,0 +1,96 @@
+body{
+    border: 3px solid black;
+    margin-right: 10%;
+    margin-left: 10%;
+    height: 2100px;
+    background-color: black;
+}
+.Foto1{
+    position: absolute;
+    top: 57px;
+    width: 1358px;
+    height: 300px;
+}
+.Foto2{
+    width: 295px;
+    height: 270px;
+    position: absolute;
+    left: 30px;
+    top: 900px;
+}
+.Foto3{
+    width: 295px;
+    height: 270px;
+    position: absolute;
+    left: 350px;
+    top: 910px;
+}
+.Foto4{
+    width: 295px;
+    height: 270px;
+    position: absolute;
+    left: 670px;
+    top: 900px;
+}
+.Foto5{
+    width: 350px;
+    height: 310px;
+    position: absolute;
+    left: 985px;
+    top: 880px;
+}
+.nomlo{
+    position: absolute;
+    left: 50px;
+    top: 90px;
+    color: azure;
+}
+.carousel-item{
+    position: absolute;
+    top: 30px;
+    width: 1358px;
+    height: 840px;
+}
+.carousel-item{
+    position: absolute;
+    top: 30px;
+    width: 1358px;
+    height: 840px;
+}
+.d-block{
+    position: absolute;
+    top: 270px;
+    width: 1358px;
+    height: 550px;
+}
+.gst1{
+    position: absolute;
+    left: 50px;
+    top: 1165px;
+    color: rgb(212, 212, 196);
+}
+.gst2{
+    position: absolute;
+    left: 400px;
+    top: 1165px;
+    color: rgb(212, 212, 196);
+}
+.gst3{
+    position: absolute;
+    left: 710px;
+    top: 1165px;
+    color: rgb(212, 212, 196);
+}
+.gst4{
+    position: absolute;
+    left: 1050px;
+    top: 1165px;
+    color: rgb(212, 212, 196);
+}
+.tarjetas{
+    top: 500px;
+    height: 330px;
+    width: 1360px;
+    margin-right: 30px;
+    background-color: rgb(53, 52, 52);
+}
